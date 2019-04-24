@@ -17,3 +17,5 @@ tensorflow_gpu-1.9.0+nv18.8-cp35-cp35m-linux_aarch64.whl
   solve:
     sudo pip3 install numpy --upgrade
   
+  
+reference : https://blog.csdn.net/qq_40708778/article/details/88096907#commentBox
