@@ -8,7 +8,7 @@ tensorflow_gpu-1.9.0+nv18.8-cp35-cp35m-linux_aarch64.whl
           if err try:
              sudo pip3 install --upgrade pip -vv
              
-3.install tensorflow_gpu-1
+3.install tensorflow_gpu-1.9.0
   i   cd path to tensorflow_gpu-1.9.0+nv18.8-cp35-cp35m-linux_aarch64.whl
   ii  pip3 install tensorflow_gpu-1.9.0+nv18.8-cp35-cp35m-linux_aarch64.whl
   
